@@ -1,0 +1,6 @@
+# MATLAB Files
+*.asv
+*.mat
+*.mex*
+*.slxc
+slprj/
