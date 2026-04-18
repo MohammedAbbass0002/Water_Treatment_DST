@@ -23,7 +23,7 @@ Diagnostic phase revealed adequate organic performance but a critical failure in
 <p align="center">
   <img src="images/ZENIN with Modifications.jpeg" width="800">
 </p>
-*By applying a targeted UV dose of 29.8{ mJ/cm}^2, the tool predicted a compliant microbial output.*
+*By applying a targeted UV dose of 29.8 mJ/cm^2, the tool predicted a compliant microbial output.*
 
 ---
 
