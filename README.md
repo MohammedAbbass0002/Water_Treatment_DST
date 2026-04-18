@@ -40,7 +40,7 @@ This facility faced a catastrophic organic crisis (BOD at 240 mg/L), requiring a
 <p align="center">
   <img src="images/ABU RAWASH with Modifications.jpeg" width="800">
 </p>
-*The proposed advanced secondary treatment achieved a 96.8\% BOD removal efficiency and enabled significant energy recovery.*
+*The proposed advanced secondary treatment achieved a 96.8% BOD removal efficiency and enabled significant energy recovery.*
 
 ## 💡 Key Project Impact
 * ✅ **Regulatory Compliance:** Ensures 100% alignment with ECP 501-2015 Grade A.
