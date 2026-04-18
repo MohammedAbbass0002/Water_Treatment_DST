@@ -23,12 +23,12 @@ Diagnostic phase revealed adequate organic performance but a critical failure in
 <p align="center">
   <img src="images/ZENIN with Modifications.jpeg" width="800">
 </p>
-*By applying a targeted UV dose of $29.8 \text{ mJ/cm}^2$, the tool predicted a compliant microbial output.*
+*By applying a targeted UV dose of 29.8{ mJ/cm}^2, the tool predicted a compliant microbial output.*
 
 ---
 
 ### 2. Abu Rawash WWTP Analysis
-This facility faced a catastrophic organic crisis ($BOD$ at $240 \text{ mg/L}$), requiring a comprehensive engineering overhaul.
+This facility faced a catastrophic organic crisis (BOD at 240 mg/L), requiring a comprehensive engineering overhaul.
 
 **Baseline Diagnostic vs. Egyptian Code:**
 <p align="center">
@@ -40,11 +40,11 @@ This facility faced a catastrophic organic crisis ($BOD$ at $240 \text{ mg/L}$),
 <p align="center">
   <img src="images/ABU RAWASH with Modifications.jpeg" width="800">
 </p>
-*The proposed advanced secondary treatment achieved a $96.8\%$ BOD removal efficiency and enabled significant energy recovery.*
+*The proposed advanced secondary treatment achieved a 96.8\% BOD removal efficiency and enabled significant energy recovery.*
 
 ## 💡 Key Project Impact
-* ✅ **Regulatory Compliance:** Ensures $100\%$ alignment with ECP 501-2015 Grade A.
-* ⚡ **Operational Efficiency:** Reduces OPEX by up to $35\%$ through energy-optimized retrofitting.
+* ✅ **Regulatory Compliance:** Ensures 100% alignment with ECP 501-2015 Grade A.
+* ⚡ **Operational Efficiency:** Reduces OPEX by up to 35% through energy-optimized retrofitting.
 * 🌱 **Sustainable Reclamation:** Transforms hazardous effluent into a safe water resource.
 
 ## 🛠 Requirements
